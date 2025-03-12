@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Welcome to our Party Management system!</p>
+
+    <!-- Link to manage parties -->
+    <p><a href="@Url.Action("Index", "Party")" class="btn btn-primary">Manage My Parties</a></p>
+
+    <!-- Link to create a new party -->
+    <p><a href="@Url.Action("Create", "Party")" class="btn btn-secondary">Add a Party</a></p>
+</div>

@@ -1,0 +1,40 @@
+﻿@model PartyInvitesApp.Models.Party
+
+<h2>@Model.Description</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Guest Name</th>
+            <th>Email</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var invitation in Model.Invitations)
+        {
+            <tr>
+                <td>@invitation.GuestName</td>
+                <td>@invitation.GuestEmail</td>
+                <td>
+                    @if (invitation.Status == InvitationStatus.InviteSent)
+                    {
+                        <span style="color: green;">Invitation Sent</span>
+                    }
+                    else if (invitation.Status == InvitationStatus.RespondedYes)
+                    {
+                        <span style="color: blue;">Attending</span>
+                    }
+                    else if (invitation.Status == InvitationStatus.RespondedNo)
+                    {
+                        <span style="color: red;">Not Attending</span>
+                    }
+                    else
+                    {
+                        <span style="color: gray;">Pending</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

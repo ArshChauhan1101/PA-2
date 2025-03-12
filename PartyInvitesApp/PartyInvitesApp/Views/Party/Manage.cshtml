@@ -1,0 +1,83 @@
+﻿@model PartyInvitesApp.Models.Party
+
+@{
+    ViewData["Title"] = "Manage Party";
+}
+
+<h1>Manage Party: @Model.Description</h1>
+<p>Location: @Model.Location</p>
+<p>Event Date: @Model.EventDate</p>
+
+<h3>Invitations</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Guest Name</th>
+            <th>Email</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var invitation in Model.Invitations)
+        {
+            <tr>
+                <td>@invitation.GuestName</td>
+                <td>@invitation.GuestEmail</td>
+                <td>@invitation.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<h3>Add New Invitation</h3>
+<form method="post" asp-action="Create" asp-controller="Invitation">
+    <div class="form-group">
+        <label for="guestName">Guest Name</label>
+        <input type="text" class="form-control" id="guestName" name="guestName" required />
+    </div>
+    <div class="form-group">
+        <label for="guestEmail">Guest Email</label>
+        <input type="email" class="form-control" id="guestEmail" name="guestEmail" required />
+    </div>
+    <input type="hidden" name="partyId" value="@Model.Id" />
+    <button type="submit" class="btn btn-primary">Send Invitation</button>
+</form>
+
+<hr />
+
+<h4>Statistics</h4>
+<p>Sent Invitations: @Model.Invitations.Count(i => i.Status == InvitationStatus.InviteSent)</p>
+<p>Yes Responses: @Model.Invitations.Count(i => i.Status == InvitationStatus.RespondedYes)</p>
+<p>No Responses: @Model.Invitations.Count(i => i.Status == InvitationStatus.RespondedNo)</p>
+
+
+<a href="@Url.Action("Index", "Party")" class="btn btn-secondary">Back to List</a>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#sendInvitationForm').on('submit', function (e) {
+                e.preventDefault(); // Prevent the default form submission
+
+                var formData = $(this).serialize(); // Serialize form data
+
+                $.ajax({
+                    url: '@Url.Action("Create", "Invitation")', // URL to handle the POST request
+                    type: 'POST',
+                    data: formData,
+                    success: function (response) {
+                        // On success, update the page content with the updated invitation status
+                        $('#invitationStatusContainer').html(response);
+                    },
+                    error: function () {
+                        alert('There was an error sending the invitation.');
+                    }
+                });
+            });
+        });
+    </script>
+}
+

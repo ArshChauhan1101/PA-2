@@ -1,0 +1,23 @@
+﻿@model PartyInvitesApp.Models.Party
+
+@{
+    ViewData["Title"] = "Delete Party";
+}
+
+<h1>Delete Party</h1>
+
+<h4>Are you sure you want to delete this party?</h4>
+<hr />
+
+<div>
+    <h3>@Model.Description</h3>
+    <p>Event Date: @Model.EventDate</p>
+    <p>Location: @Model.Location</p>
+</div>
+
+<form asp-action="DeleteConfirmed">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+<a href="@Url.Action("Index", "Party")" class="btn btn-secondary">Back to List</a>
