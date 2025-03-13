@@ -4919,11 +4919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp.csproj",
+      "projectUniqueName": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp.csproj",
       "projectName": "PartyInvitesApp",
-      "projectPath": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp.csproj",
+      "projectPath": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp.csproj",
       "packagesPath": "C:\\Users\\ac110\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\obj\\",
+      "outputPath": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

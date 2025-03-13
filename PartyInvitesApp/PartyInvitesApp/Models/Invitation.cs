@@ -22,11 +22,10 @@ namespace PartyInvitesApp.Models
 
         [Required]
         [EmailAddress]
-        public  string GuestEmail { get; set; }
+        public   string GuestEmail { get; set; }
 
         [Required]
         public InvitationStatus Status { get; set; } = InvitationStatus.InviteNotSent;
-
 
 
         // Foreign key for Party

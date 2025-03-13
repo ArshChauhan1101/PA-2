@@ -2,8 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using PartyInvitesApp.Data;
 using PartyInvitesApp.Models;
-using MimeKit;
-using System.Threading.Tasks;
 using System.Net;
 using System.Net.Mail;
 
@@ -25,7 +23,7 @@ namespace PartyInvitesApp.Controllers
         {
             if (ModelState.IsValid)
             {
-                invitation.Status = InvitationStatus.InviteNotSent; // Default status
+                invitation.Status = InvitationStatus.InviteNotSent; 
                 _context.Add(invitation);
                 await _context.SaveChangesAsync();
 
@@ -46,7 +44,7 @@ namespace PartyInvitesApp.Controllers
 
             if (party != null)
             {
-                string fromAddress = "ac11012005@gmail.com";
+                string fromAddress = "EMAIL HERE";
                 string toAddress = guestEmail;  // Send to the guest email
 
                 try
@@ -55,7 +53,7 @@ namespace PartyInvitesApp.Controllers
                     var smtpClient = new SmtpClient("smtp.gmail.com")
                     {
                         Port = 587,
-                        Credentials = new NetworkCredential(fromAddress, "ljjx rpxp cfwm tqvz"),
+                        Credentials = new NetworkCredential(fromAddress, "PASSWORD HERE"),
                         DeliveryMethod = SmtpDeliveryMethod.Network,
                         UseDefaultCredentials = false,
                         EnableSsl = true,
@@ -70,7 +68,7 @@ namespace PartyInvitesApp.Controllers
                                $"{party.Description}\nEvent Date: {party.EventDate}\nLocation: {party.Location}\n\n" +
                                $"Please RSVP here: https://localhost:7099/invitation/{partyId}/{guestEmail}\n\n" +
                                "We look forward to seeing you there!",
-                        IsBodyHtml = false  // plain text format
+                        IsBodyHtml = false  
                     };
 
                     mailMessage.To.Add(toAddress);
@@ -78,7 +76,6 @@ namespace PartyInvitesApp.Controllers
                     // Send the email
                     await smtpClient.SendMailAsync(mailMessage);
 
-                    // Update invitation status to 'Sent'
                     var invitation = await _context.Invitations
                         .FirstOrDefaultAsync(i => i.GuestEmail == guestEmail && i.PartyId == partyId);
 
@@ -98,7 +95,7 @@ namespace PartyInvitesApp.Controllers
 
         // GET: Invitation/Response/{partyId}/{guestEmail}
         [HttpGet("invitation/{partyId}/{guestEmail}")]
-        public async Task<IActionResult> Response(int partyId, string guestEmail)
+        public async Task<IActionResult> Response(int partyId, string guestEmail, string response)
         {
             var party = await _context.Parties
                 .FirstOrDefaultAsync(p => p.Id == partyId);
@@ -131,21 +128,43 @@ namespace PartyInvitesApp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Response(InvitationResponseModel model)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                var invitation = await _context.Invitations
-                    .FirstOrDefaultAsync(i => i.Id == model.Invitation.Id);
-
-                if (invitation != null)
-                {
-                    invitation.Status = model.Response == "Yes" ? InvitationStatus.InviteAccepted : InvitationStatus.InviteDeclined;
-                    await _context.SaveChangesAsync();
-
-                    return RedirectToAction("Manage", "Party", new { id = model.Party.Id });
-                }
+                return View(model);
             }
 
-            return View(model); // Return the model if the post isn't valid
+            var invitation = await _context.Invitations
+                .Include(i => i.Party)  
+                .FirstOrDefaultAsync(i => i.Id == model.InvitationId);
+
+            if (invitation == null)
+            {
+                return NotFound("Invitation not found.");
+            }
+
+            invitation.Status = model.Response == "Yes" ? InvitationStatus.InviteAccepted : InvitationStatus.InviteDeclined;
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Thanks", "Invitation", new { partyId = invitation.Party.Id });
         }
+
+
+
+        [HttpGet]
+        public async Task<IActionResult> Thanks(int partyId)
+        {
+            var party = await _context.Parties.FirstOrDefaultAsync(p => p.Id == partyId);
+
+            if (party == null)
+            {
+                return NotFound("Party not found.");
+            }
+
+            return View(party);
+        }
+
+
+
+
     }
 }

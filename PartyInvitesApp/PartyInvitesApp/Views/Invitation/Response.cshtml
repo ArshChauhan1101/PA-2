@@ -1,30 +1,28 @@
 ﻿@model PartyInvitesApp.Models.InvitationResponseModel
 
-<h2>@Model.Party.Description</h2>
-<p><strong>Event Date:</strong> @Model.Party.EventDate</p>
-<p><strong>Location:</strong> @Model.Party.Location</p>
+<h2>Respond to the Invitation</h2>
 
-<h4>Please let us know if you can attend:</h4>
-
-@if (Model.Invitation.Status == InvitationStatus.InviteSent)
-{
-    <p>You have already received the invitation. Please respond below.</p>
-}
-else
-{
-    <p>Your invitation is still pending.</p>
-}
-
-<form asp-action="Response" method="post">
-    <input type="hidden" name="Invitation.GuestEmail" value="@Model.Invitation.GuestEmail" />
-    <input type="hidden" name="Party.Id" value="@Model.Party.Id" />
+<form asp-controller="Invitation" asp-action="Response" method="post">
+    <input type="hidden" name="PartyId" value="@Model.Party.Id" />
+    <input type="hidden" name="InvitationId" value="@Model.Invitation.Id" />
 
     <label>
-        <input type="radio" name="Response" value="Yes" /> Yes
+        <input type="radio" name="Response" value="Yes" required /> Yes
     </label>
     <label>
-        <input type="radio" name="Response" value="No" /> No
+        <input type="radio" name="Response" value="No" required /> No
     </label>
 
-    <button type="submit">Submit Response</button>
+    <button type="submit">Submit</button>
 </form>
+
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div style="color: red;">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

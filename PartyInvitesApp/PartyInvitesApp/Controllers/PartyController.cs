@@ -2,9 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using PartyInvitesApp.Data;
 using PartyInvitesApp.Models;
-using System;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace PartyInvitesApp.Controllers
 {
@@ -117,6 +114,7 @@ namespace PartyInvitesApp.Controllers
         public async Task<IActionResult> Manage(int id)
         {
             var party = await _context.Parties
+                .Include(p => p.Invitations) // Include related invitations
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (party == null)
             {
@@ -126,37 +124,6 @@ namespace PartyInvitesApp.Controllers
         }
 
 
-
-        public async Task<IActionResult> Delete(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            var party = await _context.Parties
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (party == null)
-            {
-                return NotFound();
-            }
-
-            return View(party);
-        }
-
-        // POST: Party/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            var party = await _context.Parties.FindAsync(id);
-            if (party != null)
-            {
-                _context.Parties.Remove(party);
-                await _context.SaveChangesAsync();
-            }
-            return RedirectToAction(nameof(Index));
-        }
 
         private bool PartyExists(int id)
         {

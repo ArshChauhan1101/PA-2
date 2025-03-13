@@ -19,12 +19,25 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var invitation in Model.Invitations)
+        @foreach (var invite in Model.Invitations)
         {
             <tr>
-                <td>@invitation.GuestName</td>
-                <td>@invitation.GuestEmail</td>
-                <td>@invitation.Status</td>
+                <td>@invite.GuestName</td>
+                <td>@invite.GuestEmail</td>
+                <td>
+                    @if (invite.Status == InvitationStatus.InviteAccepted)
+                    {
+                        <span style="color: green;">✔ Accepted</span>
+                    }
+                    else if (invite.Status == InvitationStatus.InviteDeclined)
+                    {
+                        <span style="color: red;">✖ Declined</span>
+                    }
+                    else
+                    {
+                        <span style="color: gray;">Pending</span>
+                    }
+                </td>
             </tr>
         }
     </tbody>

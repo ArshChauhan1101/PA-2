@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+NE/ItU/XY=",
+  "dgSpecHash": "pXOjBKZ2jJ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp.csproj",
+  "projectFilePath": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ac110\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ac110\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

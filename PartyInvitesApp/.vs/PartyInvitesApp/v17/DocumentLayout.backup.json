@@ -1,90 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\",
+  "WorkspaceRootPath": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312035049_addresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartyInvitesApp\\Migrations\\20250312035049_addresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\invitation\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\invitation\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\invitation\\response.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\invitation\\response.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\models\\invitationresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\models\\invitationresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\party\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\invitation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\invitation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\party\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\party\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\party\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312021309_AddInvitationEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartyInvitesApp\\Migrations\\20250312021309_AddInvitationEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\party\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\views\\party\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\testing\\partyinvitesapp\\partyinvitesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\party\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\party\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\party\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\party\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\party\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\party\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\invitation\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\invitation\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\invitation\\response.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\invitation\\response.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\invitation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\invitation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\models\\invitationresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\models\\invitationresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\models\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312011933_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PartyInvitesApp\\Migrations\\20250312011933_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\controllers\\invitationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|c:\\users\\ac110\\desktop\\conestoga\\assignment\\partyinvitesapp\\partyinvitesapp\\partyinvitesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC5EDF6-E2D7-421A-B9D3-7C796C05FAAB}|PartyInvitesApp\\PartyInvitesApp.csproj|solutionrelative:partyinvitesapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,223 +94,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20250312035049_addresponses.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312035049_addresponses.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Migrations\\20250312035049_addresponses.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312035049_addresponses.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Migrations\\20250312035049_addresponses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T03:50:50.078Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T01:26:30.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Response.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Response.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Response.cshtml",
               "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Invitation\\Response.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Response.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Response.cshtml",
               "RelativeToolTip": "PartyInvitesApp\\Views\\Invitation\\Response.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-12T03:07:45.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InvitationController.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\InvitationController.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Controllers\\InvitationController.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\InvitationController.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Controllers\\InvitationController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T02:13:53.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ThankYou.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\ThankYou.cshtml",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Invitation\\ThankYou.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\ThankYou.cshtml",
-              "RelativeToolTip": "PartyInvitesApp\\Views\\Invitation\\ThankYou.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Invitation\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Thanks.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Invitation\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-12T03:09:08.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InvitationResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Models\\InvitationResponseModel.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Models\\InvitationResponseModel.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Models\\InvitationResponseModel.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Models\\InvitationResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T03:08:46.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Program.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Program.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Program.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCcAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T01:17:48.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Invitation.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Models\\Invitation.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Models\\Invitation.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Models\\Invitation.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Models\\Invitation.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwB8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T01:17:09.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Manage.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Manage.cshtml",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Manage.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Manage.cshtml",
-              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Manage.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T02:47:36.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Create.cshtml",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Invitation\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Create.cshtml",
-              "RelativeToolTip": "PartyInvitesApp\\Views\\Invitation\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T02:41:31.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PartyInvitesApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T03:26:11.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PartyController.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\PartyController.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Controllers\\PartyController.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\PartyController.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Controllers\\PartyController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAADwv1UAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T01:20:10.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Details.cshtml",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Details.cshtml",
-              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Details.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T03:15:59.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Index.cshtml",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Index.cshtml",
-              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T01:21:00.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Delete.cshtml",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Delete.cshtml",
-              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Delete.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T01:21:38.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250312021309_AddInvitationEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312021309_AddInvitationEntity.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Migrations\\20250312021309_AddInvitationEntity.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312021309_AddInvitationEntity.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Migrations\\20250312021309_AddInvitationEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T02:13:09.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Party.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Models\\Party.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Models\\Party.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Models\\Party.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Models\\Party.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T01:17:02.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Create.cshtml",
               "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Create.cshtml",
               "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Create.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -319,24 +150,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T01:17:41.497Z",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Details.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Details.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Details.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T03:15:59.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Edit.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T01:21:26.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\appsettings.json",
               "RelativeDocumentMoniker": "PartyInvitesApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\appsettings.json",
               "RelativeToolTip": "PartyInvitesApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -345,28 +189,184 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Edit.cshtml",
-              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Edit.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBoAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Program.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Program.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:17:48.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Create.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Invitation\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Invitation\\Create.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Invitation\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-12T01:21:26.814Z",
+              "WhenOpened": "2025-03-12T02:41:31.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T01:25:56.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Index.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T01:21:00.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Manage.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Party\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Party\\Manage.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Party\\Manage.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T02:47:36.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PartyInvitesApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T03:26:11.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Party.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Models\\Party.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Models\\Party.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Models\\Party.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Models\\Party.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:17:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvitationResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Models\\InvitationResponseModel.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Models\\InvitationResponseModel.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Models\\InvitationResponseModel.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Models\\InvitationResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:08:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Models\\Invitation.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Models\\Invitation.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Models\\Invitation.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Models\\Invitation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:17:09.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:25:15.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PartyController.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\PartyController.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Controllers\\PartyController.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\PartyController.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Controllers\\PartyController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:20:10.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InvitationController.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\InvitationController.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Controllers\\InvitationController.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\InvitationController.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Controllers\\InvitationController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:13:53.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "20250312011933_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312011933_InitialCreate.cs",
-              "RelativeDocumentMoniker": "PartyInvitesApp\\Migrations\\20250312011933_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Testing\\PartyInvitesApp\\PartyInvitesApp\\Migrations\\20250312011933_InitialCreate.cs",
-              "RelativeToolTip": "PartyInvitesApp\\Migrations\\20250312011933_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T01:19:33.339Z",
+              "WhenOpened": "2025-03-13T01:23:37.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PartyInvitesApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ac110\\Desktop\\Conestoga\\Assignment\\PartyInvitesApp\\PartyInvitesApp\\PartyInvitesApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PartyInvitesApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:17:41.497Z",
               "EditorCaption": ""
             }
           ]

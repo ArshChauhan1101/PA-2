@@ -12,11 +12,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
@@ -34,6 +32,7 @@ app.MapControllerRoute(
 
 app.UseRouting();
 
+#pragma warning disable 
 app.UseEndpoints(endpoints =>
 {
     // Ensure routes are correctly mapped
@@ -42,5 +41,6 @@ app.UseEndpoints(endpoints =>
         pattern: "invitation/{partyId}/{guestEmail}",
         defaults: new { controller = "Invitation", action = "Response" });
 });
+#pragma warning restore 
 
 app.Run();
